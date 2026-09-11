@@ -39,4 +39,4 @@ Para compilar y ejecutar este código, es necesario contar con un entorno de Win
 ![Salida de la ejecución en consola](captura2.png)
 
 ## Video Demostrativo
-[Enlace al video de YouTube/Drive]
+https://www.youtube.com/watch?v=RCHnoxaZi5Q
